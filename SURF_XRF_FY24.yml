@@ -1,0 +1,12 @@
+name: SURF_XRF_FY24
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - notebook
+  - nb_conda_kernels
+  - pymca
+  - cookiecutter-data-science
